@@ -1,1 +1,1 @@
-Visit [Art Gallery](noughte.github.io) to view site.
+Visit [Art Gallery](https://noughte.github.io) to view site.
