@@ -1,1 +1,1 @@
-Visit noughte.github.io to view my artwork.
+Visit [Art Gallery](noughte.github.io) to view everything.
